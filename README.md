@@ -21,3 +21,7 @@ Disadvantages:
 
 Status:
 Completed programs with adjustments and personalisation.
+
+Dependencies needed:
+1) Poppler and saved path
+2) Tesseract
