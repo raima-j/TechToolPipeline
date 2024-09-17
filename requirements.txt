@@ -1,0 +1,13 @@
+pytesseract
+pdf2image
+nltk
+natsort
+matplotlib
+seaborn
+Pillow
+camelot-py[cv]
+pandas
+transformers
+torch
+flask
+pillow
